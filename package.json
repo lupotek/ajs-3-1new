@@ -1,0 +1,23 @@
+{
+  "name": "ajs-3-1new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lupotek/ajs-3-1new.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lupotek/ajs-3-1new/issues"
+  },
+  "homepage": "https://github.com/lupotek/ajs-3-1new#readme",
+  "dependencies": {
+    "@lupotek/ajs-3-1": "^1.0.0"
+  }
+}
